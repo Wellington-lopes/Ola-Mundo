@@ -1,3 +1,5 @@
+@charset "UTF-08";
+
 * {
     padding: 0;
     margin: 0;
@@ -9,4 +11,7 @@ h1{
 
 p{
     padding: 2px;
+    color: blue;
+    margin-top: 50px;
+    padding: 10px;
 }
